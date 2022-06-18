@@ -3,7 +3,6 @@
 </p>
 
 <br>
-<br>
 
 > ## Sobre o Projeto
 
@@ -23,14 +22,11 @@ Aprendemos o que é CSS e desenvolvemos a estilização do projeto.
 
 Aprendemos o que é Javascript e desenvolvemos a lógica do projeto.
 
-<br>
-<br>
 
 ## Objetivo
 
 O objetivo da maratona foi demonstrar de maneira prática a aplicação de conceitos de programação.
 
-<br>
 <br>
 
 > ## Métodos
@@ -51,19 +47,16 @@ E para o estudo, aplicamos a metodologia PARE:
 4. Explicar
 
 <br>
-<br>
 
 > ## Tecnologias Utilizadas
 
 <p>
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-F24F00?style=for-the-badge&logo=html5&logoColor=white" />
-
- <img align="left" align="left" alt="git" src="https://img.shields.io/badge/css3-CC6699?style=for-the-badge&logo=css3&logoColor=white" height="27"/> 
-
+<img align="left" align="left" alt="git" src="https://img.shields.io/badge/css3-CC6699?style=for-the-badge&logo=css3&logoColor=white" height="27"/> 
 <img align="left" align="left" alt="css" src="https://img.shields.io/badge/JAVASCRIPT-FFD700?style=for-the-badge&logo=javascript&logoColor=white" />
-
 </p>
 
+<br> 
 <br>
 <br>
 
@@ -74,9 +67,7 @@ E para o estudo, aplicamos a metodologia PARE:
 "Não tem problema em não entender tudo de primeira!"
 
 <br>
-<br>
 
 > ## Instalação
 
- * `git clone`
- * `npm install`
+ * `git clone https://github.com/isamallow/maratona-explorer.git`
