@@ -1,10 +1,14 @@
+<div align="center">
+<h1>Reveal Fate - Rocketseat</h1>
+</div>
+
 <p align="center">
-<img src="aplicacao/img/aplicacao-explorer.png" width="400"/>
+<img src="https://i.imgur.com/ynQ6yE4.png" width="700"/>
 </p>
 
 <br>
 
-> ## Sobre o Projeto
+## 💻 Sobre o Projeto
 
 Esse projeto foi desenvolvido na Maratona Explorer da @Rocketseat. Uma semana do dia 6 a 12 de junho de 2022, desenvolveu-se uma aplicação completa do zero.
 
@@ -22,14 +26,11 @@ Aprendemos o que é CSS e desenvolvemos a estilização do projeto.
 
 Aprendemos o que é Javascript e desenvolvemos a lógica do projeto.
 
-
-## Objetivo
+## 📝 Objetivo
 
 O objetivo da maratona foi demonstrar de maneira prática a aplicação de conceitos de programação.
 
-<br>
-
-> ## Métodos
+## 📚 Métodos
 
 A Maratona Explorer foi um evento online e gratuito, com aulas teóricas e práticas.
 
@@ -46,9 +47,7 @@ E para o estudo, aplicamos a metodologia PARE:
 3. Revisar
 4. Explicar
 
-<br>
-
-> ## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 <p>
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-F24F00?style=for-the-badge&logo=html5&logoColor=white" />
@@ -56,18 +55,14 @@ E para o estudo, aplicamos a metodologia PARE:
 <img align="left" align="left" alt="css" src="https://img.shields.io/badge/JAVASCRIPT-FFD700?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-<br> 
-<br>
-<br>
+<br /> 
 
-> ## Conclusão
+## 🏁 Conclusão
 
 "Não pule etapas, acelere etapas!"
 
 "Não tem problema em não entender tudo de primeira!"
 
-<br>
-
-> ## Instalação
+## 💿 Instalação
 
  * `git clone https://github.com/isamallow/maratona-explorer.git`
